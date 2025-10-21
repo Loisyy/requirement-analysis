@@ -50,7 +50,6 @@ Requirement Analysis and Modeling: Visualize requirements using use case diagram
 
 ![Booking System Use Case](diagrams/alx-booking-uc.png)
 
-
 Requirement Validation: Verify with stakeholders that documented requirements are accurate, feasible, and complete.
 
 5. Types of Requirements
